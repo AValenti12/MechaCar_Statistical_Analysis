@@ -44,13 +44,13 @@ Results:
  P-Value for Lot 3 is 0.04 which is below our significance level of 0.05; reject null hypothesis.
  
  
- ## Study Design: MechaCar vs Competition
+ ## Study Design: MechaCar vs Competition (Deliverable 4)
  
  Another statistical study that can be performed to determ MechCar's standing against competitors is linear regression on emessions. 
  
- Metrics used would be vehicle emissions. 
- Null Hypothesis would be MechaCar Produces equal or more emissions than competitors.
- Alternative Hypothesis would be MechaCar produces less emissions than competitors.
- T Tests can be ran between MechaCar and individual competitors to show direct comparisons.
- In order to complete this study, emission information would be needed from competitors and MechaCar.
+ - Metrics used would be vehicle emissions. 
+ -  Null Hypothesis would be MechaCar Produces equal or more emissions than competitors.
+ -  Alternative Hypothesis would be MechaCar produces less emissions than competitors.
+ -  T Tests can be ran between MechaCar and individual competitors to show direct comparisons.
+ -  In order to complete this study, emission information would be needed from competitors and MechaCar.
  
